@@ -1,4 +1,8 @@
-#project #portfolio 
+---
+tags:
+  - portfolio
+  - project
+---
 After settling down on the combination of [Quartz](https://quartz.jzhao.xyz/) and GitHub Pages for my site it's time to look again at my [[Features and Requirements]] to see how I can fulfill them.
 
 * I've chosen Quartz for the website's "framework". It's a static-site generator that renders Markdown into HTML-JS and it makes it really easy to use from my already existing [Obsidian](https://obsidian.md/) vault and to host into GitHub Pages.

@@ -1,8 +1,14 @@
+---
+tags:
+  - portfolio
+  - project
+  - article
+---
 After getting down my [[Features and Requirements]] for the site and making my [[Design Choices]], this is the process I followed to finally set up my site.
 
 Quartz already has a [pretty good documentation page](https://quartz.jzhao.xyz/) that covers all the basics. However there's a few areas where I feel the documentation could be improved, so I decided to document my process as if it were a tutorial for future reference and so anyone else might benefit.
 
-## 1. Clone the repository locally:
+## 1. Clone the repository locally
 ````shell
 git clone https://github.com/jackyzha0/quartz.git
 ````
@@ -145,5 +151,28 @@ npx quartz sync
 
 Now the final, most beautiful test: Go to your browser and enter your newly acquired domain name. If you see something like this:
 ![[Naked Quartz Site.png]]
-Congratulations! You have your own site. Now you can get to work on [[Customizing a Quartz-Powered Portfolio Site]].
+Congratulations! You have your own site. 
+
+## 10. Publish your first article
+
+This would be a tall order if you were a grad student. Luckily no one here is, so all we have to do to publish an article is move some files around and paste some commands into the console.
+
+1. Go over to your local Quartz repo and go to the `content` directory.
+2. Create a markdown file and type anything.
+3. Build your Quartz page again:
+``` shell
+npx quartz build
+```
+4. Commit and push:
+```shell
+npx quartz sync
+```
+5. Wait a couple of minutes (deploying to GitHub pages is not instant), then go to your page.
+
+You should see your newly created file in the "Explorer" panel on the left.
+
+## 11. Enjoy! But also keep going
+
+No rest for the weary. Now you can get to work on [[Customizing a Quartz-Powered Portfolio Site]] and [[Automating a blog workflow from Obsidian]].
+
 
