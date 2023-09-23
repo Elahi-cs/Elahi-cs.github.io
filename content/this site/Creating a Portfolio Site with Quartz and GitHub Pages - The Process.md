@@ -6,8 +6,11 @@ tags:
 ---
 After getting down my [[Features and Requirements]] for the site and making my [[Design Choices]], this is the process I followed to finally set up my site.
 
-Quartz already has a [pretty good documentation page](https://quartz.jzhao.xyz/) that covers all the basics. However there's a few areas where I feel the documentation could be improved, so I decided to document my process as if it were a tutorial for future reference and so anyone else might benefit.
+Quartz already has a [pretty good documentation page](https://quartz.jzhao.xyz/) that covers all the basics. However there's a few areas where I feel the documentation could be improved, so I decided to document my process as if it were a tutorial for future reference and so anyone else might benefit. 
 
+Between requirements, design, and putting together this tutorial, it's taken me a total of 7 hours from conception to deployment. 
+
+Here we go:
 ## 1. Clone the repository locally
 ````shell
 git clone https://github.com/jackyzha0/quartz.git
