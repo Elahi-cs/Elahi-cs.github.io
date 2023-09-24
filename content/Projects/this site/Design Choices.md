@@ -1,7 +1,7 @@
 ---
 tags:
   - portfolio
-  - project
+  - this-site
 ---
 After settling down on the combination of [Quartz](https://quartz.jzhao.xyz/) and GitHub Pages for my site it's time to look again at my [[Features and Requirements]] to see how I can fulfill them.
 

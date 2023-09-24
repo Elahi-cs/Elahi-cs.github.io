@@ -19,6 +19,8 @@ import DesktopOnly from "./DesktopOnly"
 import MobileOnly from "./MobileOnly"
 import RecentNotes from "./RecentNotes"
 
+import HeaderTags from "./HeaderTags"
+
 export {
   ArticleTitle,
   Content,
@@ -40,4 +42,5 @@ export {
   MobileOnly,
   RecentNotes,
   NotFound,
+  HeaderTags,
 }

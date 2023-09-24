@@ -1,7 +1,7 @@
 ---
 tags:
   - portfolio
-  - project
+  - this-site
 ---
 * It uses a framework for which I don't have to spend a lot of time learning how to do basic things (e.g Flask or Django)
 * It doesn't look like a default Bootstrap page. It's pretty to look at but doesn't have a very elaborate frontend (a cool template will suffice)

@@ -3,6 +3,7 @@ tags:
   - portfolio
   - project
   - article
+  - this-site
 ---
 After getting down my [[Features and Requirements]] for the site and making my [[Design Choices]], this is the process I followed to finally set up my site.
 

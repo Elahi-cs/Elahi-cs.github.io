@@ -9,7 +9,7 @@ const config: QuartzConfig = {
     analytics: null,
     baseUrl: "elahi-cs.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "published",
+    defaultDateType: "modified",
     theme: {
       typography: {
         header: "Schibsted Grotesk",
