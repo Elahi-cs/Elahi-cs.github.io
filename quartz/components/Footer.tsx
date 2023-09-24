@@ -13,9 +13,6 @@ export default ((opts?: Options) => {
     return (
       <footer>
         <hr />
-        <p>
-          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>, © {year}
-        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
@@ -23,6 +20,12 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <p>
+        Want to know more about how this site was created? Check out my article about setting up this place <a href="https://elahi.me/this-site/Creating-a-Portfolio-Site-with-Quartz-and-GitHub-Pages---The-Process">here</a>.
+        </p>
+        <p>
+          Created with <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> and maintained with <a href="https://obsidian.md/">Obsidian</a>, {year}.
+        </p>
       </footer>
     )
   }
