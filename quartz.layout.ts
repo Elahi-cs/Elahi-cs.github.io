@@ -7,9 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [ Component.HeaderTags({
       links: {
           Home: "/",
-          Projects: "Projects",
-          Blog: "Blog",
-          "About Me": "About-Me"
+          Projects: "/Projects",
+          Blog: "/Blog",
+          "About Me": "/About-Me"
       }
   }) 
   ],
