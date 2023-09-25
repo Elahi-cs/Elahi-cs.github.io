@@ -8,7 +8,8 @@ export const sharedPageComponents: SharedLayout = {
       links: {
           Home: "/",
           Projects: "Projects",
-          Blog: "#",
+          Blog: "Blog",
+          "About Me": "About-Me"
       }
   }) 
   ],
