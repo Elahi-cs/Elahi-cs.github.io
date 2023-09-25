@@ -8,8 +8,8 @@ Welcome to my site! I'm Elahi, a Computer Engineering student currently both stu
 
 ## What You'll Discover
 
-- **[[Projects/Portfolio Site/content/Projects/index|Projects]]**: Explore my software projects and see my skills in action.
-- **[[Projects/Portfolio Site/content/Blog/index|Blog]]**: Dive into my thoughts, experiences, and insights on various subjects.
+- **[[Projects/index|Projects]]**: Explore my software projects and see my skills in action.
+- **[[Blog/index|Blog]]**: Dive into my thoughts, experiences, and insights on various subjects.
 
 ## Connect with Me
 
